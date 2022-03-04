@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Actividades.ActivityFavorite">
+
+    <SearchView
+        android:id="@+id/txtSearch"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/searchview_background"
+        android:iconifiedByDefault="false"
+        android:queryBackground="@android:color/transparent"
+        android:queryHint="Enter movie favorite name"
+        tools:ignore="MissingConstraints" >
+
+    </SearchView>
+
+    <Button
+        android:id="@+id/buton2"
+        android:layout_width="142dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="12dp"
+        android:background="@drawable/searchview_background"
+        android:insetLeft="15dp"
+        android:text="Cancelar"
+        android:textColorHighlight="@color/white"
+        android:textColorLink="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/txtSearch"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

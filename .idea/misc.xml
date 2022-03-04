@@ -3,9 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/drawable/ic_baseline_red_favorite_border_24.xml" value="0.287" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/drawable/ic_red_favorite_24.xml" value="0.287" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/drawable/searchview_background.xml" value="0.287" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_favorite.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_main_drawer.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/elemento_lista_pelicula.xml" value="0.4701492537313433" />
-        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/movie_list.xml" value="0.33605072463768115" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/fragment_SeeLater.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/fragment_camera.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/fragment_gallery.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/fragment_home.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/menu.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/movie_list.xml" value="0.5" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/juanito/AndroidStudioProjects/Movie/app/src/main/res/menu/movie_list.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

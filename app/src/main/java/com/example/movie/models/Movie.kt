@@ -1,14 +1,13 @@
 package com.example.movie.models
 
-import android.os.Parcel
 import android.os.Parcelable
-import androidx.versionedparcelable.VersionedParcelize
 import com.google.gson.annotations.SerializedName
 import kotlinx.android.parcel.Parcelize
+import com.example.movie.models.Movie
 
 @Parcelize
 
-data class Movie(
+    data class Movie(
 
     @SerializedName("id")
     val id :String?,
